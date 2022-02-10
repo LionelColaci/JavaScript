@@ -9,6 +9,7 @@
     <th>
 
 ```javascript
+
 const kapelusz = {
     name : 'Daniel Calderon',
     hobby: ['Developer', 'Música', 'Caminar', 'Viajar'],
@@ -19,6 +20,7 @@ const kapelusz = {
     }
     return kapelusz
 }
+
 ```
 </th>
     <th><img aling='right' src="https://github.com/Kapelucito/Kapelucito/blob/main/images/Coding.png" min-width="200px" max-width="200px" width="200px" alt="kapelucito"></th>
