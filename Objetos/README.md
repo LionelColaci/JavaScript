@@ -1,12 +1,7 @@
-<h1 align="center">Hola, Soy  Daniel Calderon !!! 😄</h1>
-<br/>
+<h1 align="center" >OBJETO</h1> 
 
-![](https://komarev.com/ghpvc/?username=&color=006bed)  [![Linkedin: DanielCalderon](https://img.shields.io/badge/-DanielCalderon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-calderon-4a4854215/)](https://www.linkedin.com/in/daniel-calderon-4a4854215/)[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=005492615118532&text=Hi!!)](https://api.whatsapp.com/send?phone=005492615118532&text=Hi!)  
-<h3> :man: &nbsp;Acerca de mi </h3>
-<p>
-<table>
-  <tr>
-    <th>
+<img aling='right' src="https://github.com/Kapelucito/Kapelucito/blob/main/images/Coding.png" min-width="200px" max-width="200px" width="200px" alt="kapelucito"
+<br/>
 
 ```javascript
 
@@ -23,7 +18,7 @@ const kapelusz = {
 
 ```
 </th>
-    <th><img aling='right' src="https://github.com/Kapelucito/Kapelucito/blob/main/images/Coding.png" min-width="200px" max-width="200px" width="200px" alt="kapelucito"></th>
+    <th><></th>
 </table>
 
 
