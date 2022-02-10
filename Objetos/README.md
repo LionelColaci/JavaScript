@@ -1,6 +1,6 @@
 <h1 align="center" >OBJETO</h1> 
 
-<img aling='right' src="https://github.com/Kapelucito/Kapelucito/blob/main/images/Coding.png" min-width="200px" max-width="200px" width="200px" alt="kapelucito"
+<img aling='right' src="https://github.com/Kapelucito/Kapelucito/blob/main/images/Coding.png" min-width="200px" max-width="200px" width="200px" alt="kapelucito">
 <br/>
 
 ```javascript
